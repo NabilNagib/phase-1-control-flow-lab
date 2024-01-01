@@ -5,15 +5,15 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-31T10:36:17.471Z",
-    "end": "2023-12-31T10:36:17.862Z",
-    "duration": 391
+    "start": "2024-01-01T20:00:51.434Z",
+    "end": "2024-01-01T20:00:51.867Z",
+    "duration": 433
   },
   "tests": [
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,14 +55,14 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -73,7 +73,7 @@
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,14 +115,14 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
